@@ -1,0 +1,42 @@
+body {
+
+background: rgb(245, 245, 245);
+}
+
+.spacers {
+
+    color: rgb(245, 245, 245);
+    }
+
+.box-masonry {
+    
+    background:white;
+    }
+
+.box-masonry-text {
+    margin-left:5px;
+    }
+
+@font-face {
+    font-family: "Dry Brush";
+    src: url("/fonts/drybrush.ttf");
+
+        }
+
+@font-face {
+    font-family: "Amperzand";
+    src: url("/fonts/Amperzand.ttf");
+        
+        }
+
+.sidebar-heading {
+    font-family: "Dry Brush";
+    font-size: 55px;
+
+}
+
+.sidebar-summary {
+    font-family: "Amperzand";
+    font-size: 25px;
+
+}
