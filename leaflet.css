@@ -3,12 +3,18 @@ body {
     margin: 0;
   }
   
-  #map,
+
   body,
   html {
     height: 100%;
   }
   
+  #map {
+    height: 500px;
+    width: 60%;
+    
+}
+
   .leaflet-popup-content {
     text-align: center;
   }
